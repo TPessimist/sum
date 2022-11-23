@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sap.cloud.db.jdbc.ngdbc" type="repository">
+    <properties maven-id="com.sap.cloud.db.jdbc:ngdbc:2.14.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/sap/cloud/db/jdbc/ngdbc/2.14.9/ngdbc-2.14.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

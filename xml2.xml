@@ -1,0 +1,35 @@
+<DEPRecipe xmlns="http://schemas.datacontract.org/2004/07/ThunderRecipes"
+           xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <Author i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/TEN.Common.Components"/>
+    <CreationDate xmlns="http://schemas.datacontract.org/2004/07/TEN.Common.Components">2/28/2020 2:46:03 PM (UTC -5)
+    </CreationDate>
+    <Description xmlns="http://schemas.datacontract.org/2004/07/TEN.Common.Components">Default description</Description>
+    <PPID xmlns="http://schemas.datacontract.org/2004/07/TEN.Common.Components">8-X57018B-SNAG25.dep.rcp</PPID>
+    <RecipeType xmlns="http://schemas.datacontract.org/2004/07/TEN.Common.Components">Deposition</RecipeType>
+    <SaveDate i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/TEN.Common.Components"/>
+    <Chemistry>SnAg</Chemistry>
+    <CurrentRampProfileSteps>
+        <CurrentRampProfile>
+            <CurrentRampDurartionSeconds>120</CurrentRampDurartionSeconds>
+            <ForwardAmps>0.193</ForwardAmps>
+            <PulseEnabled>false</PulseEnabled>
+            <ReverseAmps>0</ReverseAmps>
+            <ShearPlateSpeed>100</ShearPlateSpeed>
+        </CurrentRampProfile>
+        <CurrentRampProfile>
+            <CurrentRampDurartionSeconds>690</CurrentRampDurartionSeconds>
+            <ForwardAmps>0.386</ForwardAmps>
+            <PulseEnabled>false</PulseEnabled>
+            <ReverseAmps>0</ReverseAmps>
+            <ShearPlateSpeed>100</ShearPlateSpeed>
+        </CurrentRampProfile>
+    </CurrentRampProfileSteps>
+    <CurrentWarningLevel>5</CurrentWarningLevel>
+    <CycleClampsMaxTries>1</CycleClampsMaxTries>
+    <FaultPercent>10</FaultPercent>
+    <PlatingDelaySeconds>5</PlatingDelaySeconds>
+    <PulsePowerSupplySteps/>
+    <VolatageLimitMax>10</VolatageLimitMax>
+    <VolatageLimitMin>0</VolatageLimitMin>
+    <VoltageWarningLevel>10</VoltageWarningLevel>
+</DEPRecipe>
